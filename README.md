@@ -78,7 +78,7 @@ Currently pursuing a **Diploma in Cybersecurity** in Vancouver, BC.
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-alvarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-alvarez-58271b196)
 [![Email](https://img.shields.io/badge/Email-josue.alvarez9%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josue.alvarez9@hotmail.com)
 
 ---
