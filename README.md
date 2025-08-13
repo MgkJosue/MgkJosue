@@ -56,9 +56,9 @@ Currently pursuing a **Diploma in Cybersecurity** in Vancouver, BC.
 ---
 
 ## 📂 Featured Projects
-- [📱 Flutter Mobile App - Pool S.A.](#) — Mobile app using **BLoC** and **REST APIs**.
-- [🖋 Digital Signature System](#) — FastAPI + ReactJS with **XADES-BES** compliance.
-- [💧 Water Meter Reading System](#) — Python microservices + AWS.
+- [📱 Flutter Mobile App - Pool S.A.]() — Mobile app using **BLoC** and **REST APIs** (Private Repository).
+- [🖋 Digital Signature System](https://github.com/MgkJosue/FrontEnd-Signature) — FastAPI + ReactJS with **XADES-BES** compliance.
+- [💧 Water Meter Reading System](https://github.com/MgkJosue/NewGadLatacunga) — Python microservices + AWS.
 
 *(Replace `#` with your repo links)*
 
